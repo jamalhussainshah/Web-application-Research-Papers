@@ -39,5 +39,5 @@ We recommend that the affected vendors take immediate steps to address the vulne
 Web applications continue to be a popular target for cyber attackers. It is important for organizations to take steps to improve the security of their web applications and to proactively identify and address potential vulnerabilities. This research highlights several vulnerabilities that could be exploited by attackers and provides recommendations for improving the security of the affected web applications.
 
 Regards
-Jamal Hussain shah
-sales@singtrade.net
+  Jamal Hussain shah
+  sales@singtrade.net
