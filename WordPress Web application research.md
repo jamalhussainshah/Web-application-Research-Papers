@@ -4,7 +4,7 @@ Web applications are becoming an increasingly popular target for cyber attackers
 
 ### Methodology:
 
-We started by identifying the most commonly used web applications, including content management systems. I then conducted a vulnerability assessment of each web application, using a combination of automated tools and manual testing.
+I have conducted a vulnerability assessment of wordpress web application, using a combination of automated tools and manual testing.
 
 
 ### During our testing, I have identified the following vulnerabilities on 1-14-2023
