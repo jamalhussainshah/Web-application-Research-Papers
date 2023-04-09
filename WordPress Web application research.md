@@ -4,7 +4,7 @@ Web applications are becoming an increasingly popular target for cyber attackers
 
 ### Methodology:
 
-We started by identifying the most commonly used web applications, including content management systems and e-commerce platforms. We then conducted a vulnerability assessment of each web application, using a combination of automated tools and manual testing.
+We started by identifying the most commonly used web applications, including content management systems. I then conducted a vulnerability assessment of each web application, using a combination of automated tools and manual testing.
 
 
 ### During our testing, I have identified the following vulnerabilities on 1-14-2023
@@ -37,6 +37,8 @@ We recommend that the affected vendors take immediate steps to address the vulne
 
 ### Conclusion:
 Web applications continue to be a popular target for cyber attackers. It is important for organizations to take steps to improve the security of their web applications and to proactively identify and address potential vulnerabilities. This research highlights several vulnerabilities that could be exploited by attackers and provides recommendations for improving the security of the affected web applications.
+
+#### The developers may sometimes overlook security concerns in their rush to develop and launch a product, which can lead to customer difficulties and negative consequences after security incidents occur.
 
 Regards  
 Jamal Hussain shah  
