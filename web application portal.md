@@ -1,4 +1,4 @@
-#### The web application security testing was conducted on a web portal on a specific on 	2023-01-31 16:41.
+#### The web application portal security testing was conducted on 	2023-01-31 16:41.
 
 #### What is a web application portal?
 
