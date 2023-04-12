@@ -36,7 +36,7 @@ It's also important to keep in mind that these recommendations are just a starti
 ![Screenshot (91)](https://user-images.githubusercontent.com/95676591/231535425-a7f14986-3e9d-42f0-ab34-fe0a7c68a268.png)
 
 
-### SOFTWARES 
+#### SOFTWARES 
 
 
 Kali Linux is a popular operating system used for penetration testing and security auditing, and it includes many tools for testing web applications, including those that use JavaScript queries.
