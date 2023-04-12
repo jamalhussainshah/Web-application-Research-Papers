@@ -1,4 +1,6 @@
-#### The presence of JavaScript queries in a website's URL may indicate a vulnerability to cross-site scripting (XSS) attacks. Such vulnerabilities could potentially provide an entry point for attackers to exploit the system and gain unauthorized access to sensitive information. Therefore, it is crucial to address XSS vulnerabilities promptly and implement appropriate security measures to mitigate the risk of such attacks
+#### "Exploring the Vulnerabilities of JavaScript Queries: A Comprehensive Research Study" by Jamal H.Shah on 12.4.2023
+
+#### "JavaScript Queries in Website URLs: An Invitation for Cross-Site Scripting (XSS) Attacks"
 
 JavaScript is a scripting language that is commonly used to add interactivity and dynamic behavior to web pages. JavaScript queries can refer to the process of querying or selecting elements within the Document Object Model (DOM) of a web page using JavaScript. This allows developers to manipulate the content and behavior of a web page in response to user interactions or other events.
 
